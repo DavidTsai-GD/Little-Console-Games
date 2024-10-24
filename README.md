@@ -1,5 +1,5 @@
 # Snake
-![image](Sanke/snake_demo.gif)
+![image](Snake/snake_demo.gif)
 
 # Gomoku
 ![image](Gomoku/gomoku_demo.gif)
